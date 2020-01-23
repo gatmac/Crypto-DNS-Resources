@@ -32,3 +32,6 @@ Comparison and resources for Crypto DNS (in alphabetical order)
 - DNS replacement
 - Public address resolution for cryptocurrencies
 - Domains supported: .crypto, .zil
+	- .zil domains are supported on the Zilliqa blockchain
+	- .crypto domains are supported on the Ethereum blockchain
+
