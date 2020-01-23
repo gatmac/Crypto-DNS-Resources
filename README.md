@@ -1,3 +1,4 @@
+![alt text](https://github.com/gatmac/Crypto-DNS-Resources/blob/master/Crypto-DNS-Resources.png "Title Logo")
 # Crypto-DNS-Resources
 Comparison and resources for Crypto DNS (in alphabetical order)
 - ENS
