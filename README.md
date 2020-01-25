@@ -10,13 +10,17 @@ Comparison and resources for Crypto DNS (in alphabetical order)
 - DNS replacement
 - Public address resolution for cryptocurrencies
 ## Basic Information
+- Organization: Ethereum Name Service (ENS)
+	- Type: Non-profit
 - [Homepage](https://ens.domains/)
 - [Github](https://github.com/ensdomains)
+- [Gitter Chat](https://gitter.im/ethereum/go-ethereum/name-registry)
 - Domains supported: .eth
 
 # FIO
 ## Basic Information
 - Meaning: Foundation for Interwallet Operability
+- Type: For-profit
 - [FIO Foundation Homepage](https://fio.foundation/)
 - Github: Not available prior to Mainnet launch
 ## Services
@@ -27,6 +31,7 @@ Comparison and resources for Crypto DNS (in alphabetical order)
 
 # Unstoppable Domains
 ## Basic Information
+- Type: For-profit
 - [Homepage](https://unstoppabledomains.com/)
 - [Github](https://github.com/unstoppabledomains/resolution)
 ## Services
